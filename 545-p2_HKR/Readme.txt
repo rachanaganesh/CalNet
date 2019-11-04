@@ -2,10 +2,8 @@ Class number:
 545 Software Architecture
 
 Project number and name:
-Project #2 – Calc Net
+Project #2 â€“ Calc Net
 
-Team name and members:
-HKR, Heena Pallan,Kamakshi Chaudhry,Rachana Ganesh
 
 Intro (including the algorithm used):  
 This project is designed to run a factory floor of machines which help compute
