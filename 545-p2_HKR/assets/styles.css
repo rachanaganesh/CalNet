@@ -1,0 +1,36 @@
+body {
+    text-align: left;
+    font-family: sans-serif;
+}
+
+canvas {
+    background-color: white;
+}
+
+  .boxed {
+    border: 2px solid green ;
+    width:220px;
+    height:130px;
+    text-align: center;
+  }
+  .arrow {
+    width:120px;
+    margin:50px auto;
+}
+
+.line {
+    margin-top:14px;
+    width:130px;
+    background:blue;
+    height:10px;
+    float:left;
+    margin-left:-90px;
+}
+.point {	
+    width: 0; 
+	height: 0; 
+	border-top: 20px solid transparent;
+	border-bottom: 20px solid transparent;
+	border-left: 80px solid blue;
+    float:right;
+} 
